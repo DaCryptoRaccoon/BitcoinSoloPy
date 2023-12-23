@@ -16,8 +16,8 @@
 ⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀
 ⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⢿⣿⣿⣿⣿⡿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
-       WE ARE ALL SATOSHI
-         B I T C O I N
+         WE ARE ALL SATOSHI
+           B I T C O I N
     
  [ 02:14:04.423861 ]  [*] New block {} detected on   network 
  [ 02:14:04.424215 ]  [*] Best Diff Trying Block   {}   was 822495
