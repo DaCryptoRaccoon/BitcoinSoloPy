@@ -25,11 +25,6 @@ It's like playing a lottery where your computer's CPU is your ticket!
 - **Bitcoin Network Whisperer**: Stay connected with the Bitcoin network and be the first to know about the latest block heights and difficulties.
 - **Smart Shutdown**: Need to pause your mining quest? Our script ensures a graceful exit, saving your progress for next time.
 
-
-# 🚀 Python Bitcoin Solo Miner: Strike Digital Gold! ⛏️💰
-
-...
-
 ## Deep Dive into the Mining Mechanics
 
 ### 🧬 How Hashing Works in Bitcoin Mining
