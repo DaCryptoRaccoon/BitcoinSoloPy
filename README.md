@@ -128,5 +128,21 @@ This project is released under [MIT]. Because sharing is caring!
 A Big Thanks! 🎉
 Shoutout to all the brilliant minds who contributed, tested, and provided feedback. You're the real MVPs!
 
+## ⚠️ Disclaimer: Experimental Software  ⚠️
+
+This Python Bitcoin Solo Miner is an experimental tool designed for educational and entertainment purposes. While it demonstrates the principles of Bitcoin mining, users should exercise caution and understand the following:
+
+- **No Liability**: The creators and contributors of this software assume no liability for any loss or damage incurred as a result of using this software. This includes, but is not limited to, financial loss, data loss, hardware damage, or any other types of loss/damage.
+- **Resource Usage**: Bitcoin mining, even on a small scale, can be resource-intensive and may impact your computer's performance and power consumption.
+- **No Guarantees**: Success in mining Bitcoin is highly improbable due to the immense competition and computational power in the Bitcoin network. This software does not guarantee any earnings or mining success.
+- **Compliance with Laws**: Users are responsible for ensuring that their use of the software complies with local laws and regulations.
+- **Data Security**: As with any software that interacts with the internet, users should be cautious and ensure their systems are secure.
+
+By using this software, you acknowledge that you have read this disclaimer, understand its contents, and agree to use the software at your own risk.
+
+...
+
+# Happy Mining! 🎉
+
 Happy Mining! 🎉
 May your CPU be swift, your blocks be full, and your rewards be plentiful!
